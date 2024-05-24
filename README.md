@@ -45,14 +45,5 @@
 6. Sube tus cambios a tu rama (`git push origin feature/nueva-funcion`).
 7. Abre una solicitud de extracción en GitHub.
 
-## Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con el equipo de Coctelis:
-
-- Email: contact@OptimusWeb.com
-- Sitio web: [https://OptimusWeb.com](https://OptimusWeb.com)
-
-¡Disfruta de Coctelis y bebe con responsabilidad!
-
 ---
 © 2023 OptimusWeb
